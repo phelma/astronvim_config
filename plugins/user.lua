@@ -9,4 +9,5 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  "loctvl842/monokai-pro.nvim"
 }
